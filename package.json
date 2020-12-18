@@ -1,0 +1,7 @@
+{
+  "name": "land-copy",
+  "version": "1.0.0",
+  "dependencies": {
+    "fs-extra": "^9.0.1"
+  }
+}
